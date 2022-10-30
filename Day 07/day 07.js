@@ -1,9 +1,9 @@
 let inicia = prompt("Deseja inserir algum item na sua lista").toLocaleLowerCase()
 
-let frutas = ["maça", "pera", "banana"]
-let laticinios = ["leite"]
-let congelados = ["batata"]
-let doces = ["bombom"]
+let frutas = []
+let laticinios = []
+let congelados = []
+let doces = []
 
 if(inicia == "sim") {
     let opcao = "adicionar"
