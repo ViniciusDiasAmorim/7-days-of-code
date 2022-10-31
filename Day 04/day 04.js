@@ -4,7 +4,6 @@ console.log(valor)
 let valorInput = prompt("Qual valor voce vai chutar?")
 let tentativas = 3
 
-
 if(valorInput == 5)
 {
     alert("Voce acertou de primeira, parabens")
@@ -29,5 +28,4 @@ if(valorInput == 5)
             }
          }
     }   
-
 }
