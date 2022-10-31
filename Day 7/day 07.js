@@ -10,7 +10,6 @@ while(rodaPrograma) {
         case "0" : rodaPrograma = false; break;
         default : alert("Ops acho que voce nao digitou um valor de acordo com esperado !!");
     }
-
 }
 
 function soma() {
