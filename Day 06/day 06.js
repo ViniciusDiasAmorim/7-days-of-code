@@ -32,7 +32,6 @@ if(inicia == "sim") {
                             case "3" : remove(congelados); break;
                             case "4" : remove(doces); break;
                 }
-
                 if(possui == false) {
                     alert("item nao encontrado")
                 }
@@ -57,7 +56,5 @@ if(inicia == "sim") {
                         }
                     }
     }
-
-
 }
 alert("Obrigado por usar o programa ^^ .")
