@@ -13,9 +13,3 @@ if(resposta == 1) {
 } else {
     window.alert("Acho que voce digitou um valor fora do pedido")
 }
-
-
-
-
-
-
