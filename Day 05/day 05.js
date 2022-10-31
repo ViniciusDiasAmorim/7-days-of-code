@@ -5,8 +5,6 @@ let laticinios = []
 let congelados = []
 let doces = []
 
-
-
 if(inicia == "sim") {
     while(inicia == "sim") {
         let item = prompt("Oque você deseja inserir?")
